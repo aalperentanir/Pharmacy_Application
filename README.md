@@ -14,7 +14,7 @@ A comprehensive pharmacy management system built with Spring Boot and Java to ma
 ## Technologies Used
 
 - **Backend**: Spring Boot 3.x
-- **Frontend**: Thymeleaf (or specify if you used React/Angular/etc)
+- **Frontend**: React
 - **Database**: MySQL/PostgreSQL (specify yours)
 - **Authentication**: Spring Security
 - **Build Tool**: Maven/Gradle (specify yours)
